@@ -13,4 +13,6 @@ Basically you should import Flask from flask (should be installed via `pip insta
 
 if you want to run this on any shared hosting like `CPanel` based should be used this condition: `if __name__ == "__main__": app.run()`
 
-if you would want to use *Cpanel* based any shared hosting provided by such *NameCheap* you could watch [this video]() on *YouTube*. 
+if you would want to use *Cpanel* based any shared hosting provided by such *NameCheap* you could watch [this video](https://youtu.be/JZ4Y-NY71uY) on *YouTube*. 
+
+![alt text](https://github.com/inceabdullah/Flask-Basic-Code/blob/master/flaskcpanel.png)
