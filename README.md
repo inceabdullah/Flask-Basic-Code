@@ -11,6 +11,8 @@ Basically you should import Flask from flask (should be installed via `pip insta
 
 `return "Hello, World!"`you know this :)
 
+![](ss/flask_youtube.gif)
+
 if you want to run this on any shared hosting like `CPanel` based should be used this condition: `if __name__ == "__main__": app.run()`
 
 if you would want to use *Cpanel* based any shared hosting provided by such *NameCheap* you could watch [this video](https://youtu.be/JZ4Y-NY71uY) on *YouTube*. 
