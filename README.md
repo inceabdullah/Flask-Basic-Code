@@ -18,3 +18,9 @@ if you want to run this on any shared hosting like `CPanel` based should be used
 if you would want to use *Cpanel* based any shared hosting provided by such *NameCheap* you could watch [this video](https://youtu.be/JZ4Y-NY71uY) on *YouTube*. 
 
 ![alt text](https://github.com/inceabdullah/Flask-Basic-Code/blob/master/flaskcpanel.png)
+
+## Deploying Flask App on Cpanel-based Shared Hosting
+
+Please first use github for uploading your project. Because, git is easy to get project from it to anywhere such as linux, windows or macOs.
+
+Noted that: on cpanel do not type your app name the same it is. For example my project's app file name is: `appy.py` i can write `appy2.py` because if i write any filename that exists, it will be change by cname. For this reason i shoul write file name that doesn't exist.
