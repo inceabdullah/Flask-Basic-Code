@@ -1,4 +1,4 @@
-# Flask-Basic-Code  
+# Flask-Basic-Code  	
 Base code for trying flask server if it is running.
 
 Basically you should import Flask from flask (should be installed via `pip install flask` )
