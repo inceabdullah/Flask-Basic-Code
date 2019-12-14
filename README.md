@@ -24,3 +24,5 @@ if you would want to use *Cpanel* based any shared hosting provided by such *Nam
 Please first use github for uploading your project. Because, git is easy to get project from it to anywhere such as linux, windows or macOs.
 
 Noted that: on cpanel do not type your app name the same it is. For example my project's app file name is: `appy.py` i can write `appy2.py` because if i write any filename that exists, it will be change by cname. For this reason i shoul write file name that doesn't exist.
+
+video for deploying into cpanel-based shared hosting is [on this link](https://github.com/inceabdullah/Flask-Basic-Code)
